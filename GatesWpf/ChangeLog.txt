@@ -1,10 +1,4 @@
-# Logic-Gate-Simulator
-
-Logic Gate Simulator is an open-source tool for experimenting with and learning about logic gates. Features include drag-and-drop gate layout and wiring, and user created "integrated circuits".
-
-Developer: steven777400
-
-** VERSION 1.4
+﻿** VERSION 1.4
 
 Toggleable show true/false values on gates and wires
 "End user mode" which hides everything except input/output type gates
